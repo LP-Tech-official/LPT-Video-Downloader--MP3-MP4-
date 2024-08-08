@@ -1,0 +1,14 @@
+Pillow
+yt-dlp
+requests
+sys
+json
+os
+tkinter
+threading
+datetime
+tkk
+filedialog
+messagebox
+Image
+ImageTK
